@@ -1,0 +1,6 @@
+[{
+    "id": "deploy",
+    "execute-command": "python3 shell.py",
+    "command-working-directory": "/SphinxDocumentation/",
+    "include-command-output-in-response": true
+}]
